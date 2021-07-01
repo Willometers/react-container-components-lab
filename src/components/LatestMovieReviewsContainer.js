@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import 'isomorphic-fetch';
 import MovieReviews from './MovieReviews'
 
-const NYT_API_KEY = 'your-key-here';
+const NYT_API_KEY = 'KwNtMayLRJLbhmFasTJGmmIyVkJ3kVMR';
 const URL = 'https://api.nytimes.com/svc/movies/v2/rxeviews/all.json?'
             + `api-key=${KwNtMayLRJLbhmFasTJGmmIyVkJ3kVMR}`;
 
